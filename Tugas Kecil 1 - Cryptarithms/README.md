@@ -1,4 +1,4 @@
-# Kumpulan Tugas Kecil - Strategi Algoritma - IF2211
+# Tugas Kecil 1 - Cryptarithms
 <!-- FAQ Link https://docs.google.com/spreadsheets/d/1QkNJaG0cs0F3fyr8cIbdDV4myj_dXvvyGqcqPybjT2A/edit#gid=0 -->
 
 **TBA**

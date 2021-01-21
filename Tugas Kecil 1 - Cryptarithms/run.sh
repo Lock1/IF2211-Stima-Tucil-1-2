@@ -1,8 +1,8 @@
-./main tc1.txt;
-./main tc2.txt;
-./main tc3.txt;
-./main tc4.txt;
-./main tc5.txt;
-./main tc6.txt;
-./main tc7.txt;
-./main tc8.txt;
+./main Tests/tc1.txt;
+./main Tests/tc2.txt;
+./main Tests/tc3.txt;
+./main Tests/tc4.txt;
+./main Tests/tc5.txt;
+./main Tests/tc6.txt;
+./main Tests/tc7.txt;
+./main Tests/tc8.txt;
